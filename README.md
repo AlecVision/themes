@@ -12,5 +12,5 @@ A dark theme for [Visual Studio Code](https://code.visualstudio.com/) that's eas
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/alecvision/alecvision-teal-theme/master/images/screenshot.png)
+![Screenshot](https://github.com/AlecVision/themes/blob/main/images/screenshot.png)
 
