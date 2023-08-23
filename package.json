@@ -1,0 +1,22 @@
+{
+  "name": "alec-theme-teal",
+  "displayName": "AlecVision Theme",
+  "description": "Dark theme for Visual Studio Code",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.68.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "AlecVision Teal Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/teal.json"
+      }
+    ]
+  }
+}
